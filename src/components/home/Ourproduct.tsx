@@ -112,7 +112,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">City Backpack Black</h6>
+                                                    <h6 className="mb-1">Kids Special</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$55.00</span>
                                                     </p>
@@ -137,7 +137,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Women Black Pants</h6>
+                                                    <h6 className="mb-1">Salwar collection</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$100.00</span>
                                                     </p>
@@ -222,7 +222,7 @@ const Ourproduct = () => {
                                                 <div className="mt-3">
                                                     <h6 className="mb-1">
                                                         <Link href="#!" className="product-title">
-                                                            Mercury Tee
+                                                            Men Festive Collection
                                                         </Link>
                                                     </h6>
                                                     <p className="mb-0 fs-14 text-muted">
@@ -272,7 +272,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <div className="mt-3">
-                                                    <h6 className="mb-1"><Link href="/product-detail-layout-01" className="product-title">Men pants</Link></h6>
+                                                    <h6 className="mb-1"><Link href="/product-detail-layout-01" className="product-title">Kids Festive Collection</Link></h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$49.00 – $56.00</span>
                                                     </p>
@@ -366,7 +366,7 @@ const Ourproduct = () => {
                                                 </div>
 
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Analogue Resin Strap</h6>
+                                                    <h6 className="mb-1">Pongal Specail aura</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$30.00</span>
                                                     </p>
@@ -450,7 +450,7 @@ const Ourproduct = () => {
                                                 </div>
 
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Ridley High Waist</h6>
+                                                    <h6 className="mb-1">Traditonal salwar </h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$36.00</span>
                                                     </p>
@@ -520,7 +520,7 @@ const Ourproduct = () => {
                                                 <div className="mt-3">
                                                     <h6 className="mb-1">
                                                         <Link href="#!" className="product-title">
-                                                            Blush Beanie
+                                                            Blue Kurtha
                                                         </Link>
                                                     </h6>
                                                     <p className="mb-0 fs-14 text-muted">
@@ -576,7 +576,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Women Black Pants</h6>
+                                                    <h6 className="mb-1">Elegent Ferstive wear</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$100.00</span>
                                                     </p>
@@ -666,7 +666,7 @@ const Ourproduct = () => {
                                                 </div>
 
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Analogue Resin Strap</h6>
+                                                    <h6 className="mb-1">Traditonal festive wear</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$30.00</span>
                                                     </p>
@@ -750,7 +750,7 @@ const Ourproduct = () => {
                                                 </div>
 
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Ridley High Waist</h6>
+                                                    <h6 className="mb-1">Onam special </h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$36.00</span>
                                                     </p>
@@ -820,7 +820,7 @@ const Ourproduct = () => {
                                                 <div className="mt-3">
                                                     <h6 className="mb-1">
                                                         <Link href="#!" className="product-title">
-                                                            Blush Beanie
+                                                            Diwali special
                                                         </Link>
                                                     </h6>
                                                     <p className="mb-0 fs-14 text-muted">
@@ -930,7 +930,7 @@ const Ourproduct = () => {
                                                 <div className="mt-3">
                                                     <h6 className="mb-1">
                                                         <Link href="#!" className="product-title">
-                                                            Cluse La Boheme Rose Gold
+                                                            Pongal Special
                                                         </Link>
                                                     </h6>
                                                     <p className="mb-0 fs-14 text-muted">
@@ -991,7 +991,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">City Backpack Black</h6>
+                                                    <h6 className="mb-1">Kids Special</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$55.00</span>
                                                     </p>
@@ -1016,7 +1016,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                                    <h6 className="mb-1">Women Black Pants</h6>
+                                                    <h6 className="mb-1">Salwar Collections</h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$100.00</span>
                                                     </p>
@@ -1101,7 +1101,7 @@ const Ourproduct = () => {
                                                 <div className="mt-3">
                                                     <h6 className="mb-1">
                                                         <Link href="#!" className="product-title">
-                                                            Mercury Tee
+                                                            Traditional wear
                                                         </Link>
                                                     </h6>
                                                     <p className="mb-0 fs-14 text-muted">
@@ -1151,7 +1151,7 @@ const Ourproduct = () => {
                                                     </div>
                                                 </div>
                                                 <div className="mt-3">
-                                                    <h6 className="mb-1"><Link href="/product-detail-layout-01" className="product-title">Men pants</Link></h6>
+                                                    <h6 className="mb-1"><Link href="/product-detail-layout-01" className="product-title">Kids Festive Collection</Link></h6>
                                                     <p className="mb-0 fs-14 text-muted">
                                                         <span>$49.00 – $56.00</span></p>
                                                     <div className="product-color-list mt-2 gap-2 d-flex align-items-center">

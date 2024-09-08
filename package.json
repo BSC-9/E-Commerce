@@ -15,6 +15,7 @@
     "flickity-fade": "^2.0.0",
     "flickity-imagesloaded": "^2.0.0",
     "jarallax": "^2.2.0",
+    "kalles_nextjs": "file:",
     "next": "^14.2.8",
     "node-sass": "^9.0.0",
     "nouislider": "^15.8.1",
