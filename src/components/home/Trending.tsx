@@ -190,7 +190,7 @@ const Trending = () => {
                                 </div>
 
                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                    <h6 className="mb-1">Analogue Resin Strap</h6>
+                                    <h6 className="mb-1">Redsandle Saree</h6>
                                     <p className="mb-0 fs-14 text-muted">
                                         <span>$30.00</span>
                                     </p>
@@ -274,7 +274,7 @@ const Trending = () => {
                                 </div>
 
                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                    <h6 className="mb-1">Ridley High Waist</h6>
+                                    <h6 className="mb-1">Traditional Pattern Salwar</h6>
                                     <p className="mb-0 fs-14 text-muted">
                                         <span>$36.00</span>
                                     </p>
@@ -344,7 +344,7 @@ const Trending = () => {
                                 <div className="mt-3">
                                     <h6 className="mb-1">
                                         <Link href="#!" className="product-title">
-                                            Blush Beanie
+                                            Blue Blush 
                                         </Link>
                                     </h6>
                                     <p className="mb-0 fs-14 text-muted">
@@ -454,7 +454,7 @@ const Trending = () => {
                                 <div className="mt-3">
                                     <h6 className="mb-1">
                                         <Link href="#!" className="product-title">
-                                            Cluse La Boheme Rose Gold
+                                            Pongal Special Aura
                                         </Link>
                                     </h6>
                                     <p className="mb-0 fs-14 text-muted">
@@ -572,7 +572,7 @@ const Trending = () => {
                                 <div className="mt-3">
                                     <h6 className="mb-1">
                                         <Link href="#!" className="product-title">
-                                            Mercury Tee
+                                        Embellished Long Kurta
                                         </Link>
                                     </h6>
                                     <p className="mb-0 fs-14 text-muted">
@@ -682,7 +682,7 @@ const Trending = () => {
                                 <div className="mt-3">
                                     <h6 className="mb-1">
                                         <Link href="#!" className="product-title">
-                                            Mercury Tee
+                                        Embroidered Mandarin-Collar Kurta
                                         </Link>
                                     </h6>
                                     <p className="mb-0 fs-14 text-muted">
@@ -767,7 +767,7 @@ const Trending = () => {
                                 </div>
 
                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                    <h6 className="mb-1">Cream Women Pants</h6>
+                                    <h6 className="mb-1">Embellished & Embroidered Long Kurta</h6>
                                     <p className="mb-0 fs-14 text-muted">
                                         <span>$35.00</span>
                                     </p>
@@ -850,7 +850,7 @@ const Trending = () => {
                                 </div>
 
                                 <Link href="/product-detail-layout-01" className="mt-3 d-block">
-                                    <h6 className="mb-1">Black Mountain Hat</h6>
+                                    <h6 className="mb-1">Textured Full Sleeves Long Kurta</h6>
                                     <p className="mb-0 fs-14 text-muted">
                                         <span>$50.00</span>
                                     </p>
