@@ -79,22 +79,8 @@ import jel32 from '@assets/images/products/pr-32.jpg'
 
 
 const HomePage1 = [
-    { id: "homeDefault", label: "Home Default", link: "/", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
-    { id: "homeClassic", label: "Home Classic", link: "/home-classic", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
-    { id: "homeVideo", label: "Home Video Banner", link: "/home-video-banner" },
-    { id: "homeCategories", label: "Home Categories Links", link: "/home-categories-links" },
-    { id: "homeStatic", label: "Home Static Image", link: "/home-static-image" },
-    { id: "homeMetro", label: "Home Metro", link: "/home-metro" },
-    { id: "homeLookBook", label: "Home Lookbook", link: "/home-lookbook" },
-    { id: "homeInstagram", label: "Home Instgram Shop", link: "/home-instagram-shop" },
-    { id: "homeMedical", label: "Home Medical", link: "/home-medical", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
-    { id: "homeFlower", label: "Home Flower", link: "/home-flower" },
-    { id: "homeFurniture", label: "Home Furniture", link: "/home-furniture", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
-    { id: "homeBag", label: "Home Bag", link: "/home-bag" },
-    { id: "homeLingeries", label: "Home Lingeries", link: "/home-lingeries" },
-    { id: "homeCosmetics", label: "Home Cosmetics", link: "/home-cosmetics", badge: "new", badgeColor: "badge-tag badge bg-teal" },
-    { id: "homeGlasses", label: "Home Glasses", link: "/home-glasses", badge: "new", badgeColor: "badge-tag badge bg-teal" },
-    { id: "homeShoes", label: "Home Shoes", link: "/home-shoes", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
+    { id: "Kurta Pajama set", label: "Kurta Pajama set", link: "/", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
+    { id: "Kurta Tunic", label: "Home Shoes", link: "/home-shoes", badge: "Hot", badgeColor: "badge-tag badge bg-danger" },
 ]
 
 const Layout4HomePape1 = [

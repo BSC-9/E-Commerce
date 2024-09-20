@@ -24,19 +24,11 @@ const SearchModal = ({ show, handleClose }: any) => {
                         <form action="#!">
                             <select className="form-select rounded-pill mb-3">
                                 <option value="*">All Categories</option>
-                                <option value="Accessories">Accessories</option>
-                                <option value="Bag">Bag</option>
-                                <option value="Camera">Camera</option>
-                                <option value="Decor">Decor</option>
-                                <option value="Earphones">Earphones</option>
-                                <option value="Electric">Electric</option>
-                                <option value="Furniture">Furniture</option>
-                                <option value="Headphone">Headphone</option>
                                 <option value="Men">Men</option>
-                                <option value="Shoes">Shoes</option>
-                                <option value="Speaker">Speaker</option>
-                                <option value="Watch">Watch</option>
                                 <option value="Women">Women</option>
+                                <option value="Kids">Kids</option>
+                                <option value="Jewellery">Jewellery</option>
+                                <option value="Art Print">Art Print</option>
                             </select>
                             <div className="search-box position-relative">
                                 <input type="text" className="form-control rounded-pill" id="exampleFormControlsearch2" placeholder="Search for products" />

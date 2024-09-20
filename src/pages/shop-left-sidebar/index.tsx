@@ -13,10 +13,8 @@ const ShopLeftSidebar = () => {
         <React.Fragment>
             <HeadTitle title="Home Default" />
             <TopBanner />
-            {/* header */}
             <Header />
 
-            <ShopNavbar />
             <WomenColting />
 
             <FilterTab />

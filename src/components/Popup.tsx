@@ -12,7 +12,7 @@ const PopupPage = () => {
 
     const [currentIndex, setCurrentIndex] = useState<number>(0);
     const [show, setShow] = useState<boolean>(false);
-    const popUps = ['Pop-up 1', 'Pop-up 2', 'Pop-up 3']; // Example pop-up content
+    const popUps = ['Pop-up 1', 'Pop-up 2', 'Pop-up 3'];
     const stopAutohide = useRef<NodeJS.Timeout | null>(null);
 
     useEffect(() => {

@@ -5,9 +5,11 @@ import FooterPage from '../components/home/Footer';
 import Ourproduct from '../components/home/Ourproduct';
 import HomeSection from '../components/home/HomeSection';
 import CatSection from '../components/home/CatSection';
+import Header from '@src/components/Headers/Header';
 
 // import Header2 from '@src/components/Header2';
 import HeadTitle from '../components/home/HeadTitle';
+import TopBanner from '@src/components/Headers/TopBanner';
 
 const HomeClassic = () => {
 
@@ -18,6 +20,8 @@ const HomeClassic = () => {
             <div>
 
                 {/* header */}
+                <TopBanner />
+                <Header />
                 {/* <Header2 /> */}
 
                 {/* main slide */}
