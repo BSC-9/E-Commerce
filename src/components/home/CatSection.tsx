@@ -15,7 +15,7 @@ const CatSection = () => {
                 <div className="container">
                     <div className="row g-xl-4 g-2">
                         <div className="col-md-6">
-                            <Link href="/shop-left-sidebar" className="d-block position-relative cat_grid_item overflow-hidden h-570">
+                            <Link href="/ProductModel" className="d-block position-relative cat_grid_item overflow-hidden h-570">
                                 <div className="h-100 w-100 cat-grid-img" style={{ backgroundImage: `url(${women.src})` }}></div>
                                 <div className="cat-grid-button text-body">
                                     <div className="cat_grid_item__title">Women</div>
