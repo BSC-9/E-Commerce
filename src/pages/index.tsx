@@ -5,6 +5,7 @@ import FooterPage from '../components/home/Footer';
 import Ourproduct from '../components/home/Ourproduct';
 import HomeSection from '../components/home/HomeSection';
 import CatSection from '../components/home/CatSection';
+
 // import Header2 from '@src/components/Header2';
 import HeadTitle from '../components/home/HeadTitle';
 
